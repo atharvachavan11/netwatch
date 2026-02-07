@@ -66,7 +66,7 @@ export default function IPValidationPage() {
           <div className="mt-6 text-center">
             {status === "valid" && (
               <p className="text-green-400 font-medium">
-                ✅ Valid IP Address
+                ✅ Valid IP Addres
               </p>
             )}
             {status === "invalid" && (
