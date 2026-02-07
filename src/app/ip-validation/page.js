@@ -76,7 +76,7 @@ export default function IPValidationPage() {
             )}
             {status === "empty" && (
               <p className="text-yellow-400 font-medium">
-                ⚠️ Please enter an IP addres
+                ⚠️ Please enter an IP address
               </p>
             )}
           </div>
